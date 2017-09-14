@@ -1401,6 +1401,12 @@ K regulator switching
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic4690.pdf
 $ENDCMP
 #
+$CMP MP1584
+D 3A, 1.5MHz, 28V Step-Down Converter
+K Step-Down DC-DC Switching Regulator
+F http://www.haoyuelectronics.com/Attachment/MP1584/MP1584.pdf
+$ENDCMP
+#
 $CMP NID60
 D 60W, 250kHz Step Down Converter
 K 60W, 250KHz Buck DC/DC
