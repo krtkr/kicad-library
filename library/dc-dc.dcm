@@ -2277,4 +2277,10 @@ K dc-dc traco buck
 F http://www.tracopower.com/products/tsr1.pdf
 $ENDCMP
 #
+$CMP WRB2405CS-3W
+D Isolated DC/DC Converter, Vin=18-36V, Vout=5V@0.6A
+K Mornsun DC/DC
+F http://www.mornsun-power.com/uploads/pdf/WRB_CS-3W.pdf
+$ENDCMP
+#
 #End Doc Library
