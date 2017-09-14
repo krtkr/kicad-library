@@ -2210,6 +2210,12 @@ D 3-pin jumper/solder bridge
 K jumper solder bridge
 $ENDCMP
 #
+$CMP HR911105A
+D Single Port RJ45 Connector with Magnetics Module and LED
+K RJ45 magnetics led
+F https://elecfreaks.com/estore/download/EF01012-HR911105A.pdf
+$ENDCMP
+#
 $CMP HE10-16
 K connector
 $ENDCMP
