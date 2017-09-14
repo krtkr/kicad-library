@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DAC8552
+D 16-Bit, Dual-Channel, Ultralow Glitch, Voltage Output, Digital to Analog Converter
+K dac 16 dual voltage
+F http://www.ti.com/lit/ds/symlink/dac8552.pdf
+$ENDCMP
+#
 $CMP DRV8860
 D 8-Channel Serial Interface Low-Side Driver
 K Relay Driver
