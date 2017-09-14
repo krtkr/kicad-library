@@ -42,4 +42,9 @@ K EPLD
 F ~
 $ENDCMP
 #
+$CMP EPM240T100
+D MAX II CPLD
+K MAX II CPLD
+F https://www.altera.com/en_US/pdfs/literature/hb/max2/max2_mii5v1.pdf
+$ENDCMP
 #End Doc Library
