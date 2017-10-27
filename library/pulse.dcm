@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP H1102NL
+D 10/100BASE-T single port surface mount magnetics
+K 100BASE-T transformer ethernet
+F https://productfinder.pulseeng.com/products/datasheets/H1102NL.pdf
+$ENDCMP
+#
+#End Doc Library
