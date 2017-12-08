@@ -480,6 +480,12 @@ K Single-supply, 12bit, 4 ch, touch screen driver, 2.2 - 5.25 VDD, -40 to +125 C
 F http://www.ti.com/lit/ds/symlink/ads7843-q1.pdf
 $ENDCMP
 #
+$CMP ADS7886
+D 12-Bit, 1-MSPS, Micro-Power, Miniature
+K 12 Bit Analog to digital converter ADC
+F http://www.ti.com/lit/ds/symlink/ads1110.pdf
+$ENDCMP
+#
 $CMP CA3300
 D Convertisseur A->D 6 bits rapide
 K ADC CAN
