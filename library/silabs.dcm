@@ -96,6 +96,12 @@ K 8051 microcontroller PWM UART SPI I2C ADC SOIC16
 F https://www.silabs.com/documents/public/data-sheets/efm8bb1-datasheet.pdf
 $ENDCMP
 #
+$CMP SI8640
+D Quad Channel Digital Isolators, 4ch in, SOIC-16
+K digital isolator 4ch
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADUM1410_1411_1412.pdf
+$ENDCMP
+#
 $CMP Si3210
 D ProSLIC Programmable cmos slic/codec with ringing/battery voltage generation
 K ProSLIC slic

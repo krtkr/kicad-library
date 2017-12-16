@@ -90,6 +90,12 @@ K rs422 rs485 isolated transceiver
 F www.analog.com/media/en/technical-documentation/data-sheets/ADM2582E_2587E.pdf
 $ENDCMP
 #
+$CMP ADuM1400
+D Quad Channel Digital Isolators, 4ch in, SOIC-16W
+K digital isolator 4ch
+F http://www.analog.com/media/en/technical-documentation/data-sheets/ADUM1410_1411_1412.pdf
+$ENDCMP
+#
 $CMP ADuM1410
 D Quad Channel Digital Isolators, 4ch in, SOIC-16W
 K digital isolator 4ch
