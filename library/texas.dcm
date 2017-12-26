@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AM26LV32
+D Quad differential PECL reciver
+K differential PECL reciver
+F http://www.ti.com/lit/ds/symlink/tb5r1.pdf
+$ENDCMP
+#
 $CMP DRV8848
 D Dual H-Bridge motor driver, PWM controlled, single/dual brushed DC stepper, +2 to +18 VDD, TSSOP-16
 K Dual H-Bridge motor driver
