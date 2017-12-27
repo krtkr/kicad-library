@@ -1,9 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP AM26LV32
-D Quad differential PECL reciver
-K differential PECL reciver
-F http://www.ti.com/lit/ds/symlink/tb5r1.pdf
+D Quadruple Differential Line Receiver
+K differential reciver
+F http://www.ti.com/lit/ds/slls202g/slls202g.pdf
 $ENDCMP
 #
 $CMP DRV8848
