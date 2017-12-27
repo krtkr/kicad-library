@@ -678,6 +678,12 @@ K Opto-Triac Opto Triac Zero Cross
 F http://www.fairchildsemi.com/ds/MO/MOC3061M.pdf
 $ENDCMP
 #
+$CMP MOCD217M
+D Dual Channel DC Optocoupler, Vce 30V
+K Dual NPN DC Optocoupler
+F http://biakom.com/pdf/MOCD217M.pdf
+$ENDCMP
+#
 $CMP NSL-32
 D Optocoupler, LED Input, Photocell Output
 K optocoupler
