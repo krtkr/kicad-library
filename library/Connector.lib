@@ -33968,6 +33968,26 @@ X Pin_19 19 -200 -900 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Spring_Terminal_Connector_01x02
+#
+DEF Spring_Terminal_Connector_01x02 J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "Spring_Terminal_Connector_01x02" 50 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*Terminal*Block*:*
+ TerminalBlock*
+$ENDFPLIST
+DRAW
+S -50 15 60 -15 1 1 10 N
+S -50 115 60 85 1 1 10 N
+S -50 150 150 -50 1 1 10 f
+X Pin_1 1 -200 100 150 R 50 50 1 1 P
+X Pin_2 2 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Spring_Terminal_Connector_01x03
 #
 DEF Spring_Terminal_Connector_01x03 J 0 40 Y N 1 F N
@@ -33987,6 +34007,62 @@ S -50 150 150 -150 1 1 10 f
 X Pin_1 1 -200 100 150 R 50 50 1 1 P
 X Pin_2 2 -200 0 150 R 50 50 1 1 P
 X Pin_3 3 -200 -100 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Spring_Terminal_Connector_01x04
+#
+DEF Spring_Terminal_Connector_01x04 J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "Spring_Terminal_Connector_01x04" 50 -300 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*Terminal*Block*:*
+ TerminalBlock*
+$ENDFPLIST
+DRAW
+S -50 -185 60 -215 1 1 10 N
+S -50 -85 60 -115 1 1 10 N
+S -50 15 60 -15 1 1 10 N
+S -50 115 60 85 1 1 10 N
+S -50 150 150 -250 1 1 10 f
+X Pin_1 1 -200 100 150 R 50 50 1 1 P
+X Pin_2 2 -200 0 150 R 50 50 1 1 P
+X Pin_3 3 -200 -100 150 R 50 50 1 1 P
+X Pin_4 4 -200 -200 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Spring_Terminal_Connector_01x08
+#
+DEF Spring_Terminal_Connector_01x08 J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "Spring_Terminal_Connector_01x08" 50 -750 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*Terminal*Block*:*
+ TerminalBlock*
+$ENDFPLIST
+DRAW
+S -50 -585 60 -615 1 1 10 N
+S -50 -485 60 -515 1 1 10 N
+S -50 -385 60 -415 1 1 10 N
+S -50 -285 60 -315 1 1 10 N
+S -50 -185 60 -215 1 1 10 N
+S -50 -85 60 -115 1 1 10 N
+S -50 15 60 -15 1 1 10 N
+S -50 115 60 85 1 1 10 N
+S -50 150 150 -650 1 1 10 f
+X Pin_1 1 -200 100 150 R 50 50 1 1 P
+X Pin_2 2 -200 0 150 R 50 50 1 1 P
+X Pin_3 3 -200 -100 150 R 50 50 1 1 P
+X Pin_4 4 -200 -200 150 R 50 50 1 1 P
+X Pin_5 5 -200 -300 150 R 50 50 1 1 P
+X Pin_6 6 -200 -400 150 R 50 50 1 1 P
+X Pin_7 7 -200 -500 150 R 50 50 1 1 P
+X Pin_8 8 -200 -600 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #

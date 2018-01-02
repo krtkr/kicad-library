@@ -2485,8 +2485,26 @@ K screw terminal
 F ~
 $ENDCMP
 #
+$CMP Spring_Terminal_Connector_01x02
+D Spring Terminal Blocks Connector, KF141R, Right Angle 01x02
+K KF141R, Terminal blocks, spring-loaded
+F ~
+$ENDCMP
+#
 $CMP Spring_Terminal_Connector_01x03
 D Spring Terminal Blocks Connector, KF141R, Right Angle 01x03
+K KF141R, Terminal blocks, spring-loaded
+F ~
+$ENDCMP
+#
+$CMP Spring_Terminal_Connector_01x04
+D Spring Terminal Blocks Connector, KF141R, Right Angle 01x04
+K KF141R, Terminal blocks, spring-loaded
+F ~
+$ENDCMP
+#
+$CMP Spring_Terminal_Connector_01x08
+D Spring Terminal Blocks Connector, KF141R, Right Angle 01x08
 K KF141R, Terminal blocks, spring-loaded
 F ~
 $ENDCMP
