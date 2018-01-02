@@ -2485,6 +2485,12 @@ K screw terminal
 F ~
 $ENDCMP
 #
+$CMP Spring_Terminal_Connector_01x03
+D Spring Terminal Blocks Connector, KF141R, Right Angle 01x03
+K KF141R, Terminal blocks, spring-loaded
+F ~
+$ENDCMP
+#
 $CMP Test_Point
 D test point
 K test point tp
